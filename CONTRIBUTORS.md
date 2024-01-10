@@ -9,7 +9,7 @@ A big thank you to all the contributors who have dedicated their time, knowledge
 - Alex Johnson - [@AlexJohnson](link to GitHub profile): Networking specialist, contributing configuration examples and troubleshooting guides.
 
 
-###External Contributors
+### External Contributors
 
 We extend our gratitude to the following external contributors who have graciously shared their expertise and knowledge to enrich this repository:
 
