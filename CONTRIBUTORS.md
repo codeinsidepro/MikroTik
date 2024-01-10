@@ -4,18 +4,18 @@ A big thank you to all the contributors who have dedicated their time, knowledge
 
 ### CodeInsidePro Team
 
-John Doe - [@JohnDoe](link to GitHub profile): Technical lead, overseeing project management and content curation.
-Jane Smith - [@JaneSmith](link to GitHub profile): Content creator, responsible for tutorials, documentation, and video content production.
-Alex Johnson - [@AlexJohnson](link to GitHub profile): Networking specialist, contributing configuration examples and troubleshooting guides.
+- John Doe - [@JohnDoe](link to GitHub profile): Technical lead, overseeing project management and content curation.
+- Jane Smith - [@JaneSmith](link to GitHub profile): Content creator, responsible for tutorials, documentation, and video content production.
+- Alex Johnson - [@AlexJohnson](link to GitHub profile): Networking specialist, contributing configuration examples and troubleshooting guides.
 
 
 ###External Contributors
 
 We extend our gratitude to the following external contributors who have graciously shared their expertise and knowledge to enrich this repository:
 
-Firstname Lastname - [@username](link to GitHub profile): Added detailed tutorials on advanced MikroTik configurations.
-Contributor Name - [@username](link to GitHub profile): Provided script samples for automating MikroTik device management.
-Another Contributor - [@username](link to GitHub profile): Improved documentation and fixed typos across various sections.
+- Firstname Lastname - [@username](link to GitHub profile): Added detailed tutorials on advanced MikroTik configurations.
+- Contributor Name - [@username](link to GitHub profile): Provided script samples for automating MikroTik device management.
+- Another Contributor - [@username](link to GitHub profile): Improved documentation and fixed typos across various sections.
 
 ### How to Contribute
 
