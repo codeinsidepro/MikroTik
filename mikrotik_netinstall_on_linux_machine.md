@@ -1,3 +1,5 @@
+## MikroTik Netinstall on Linux.
+
 I’m writing this because [the official docs](https://help.mikrotik.com/docs/display/ROS/Netinstall) are thin on details for this use case.
 
 `NetInstall` needs to force I/O through a single network path under all conditions in order to do what it does. This might seem like an easy thing to accomplish, but then realize that `NetInstall` operates at a very low level, and there are multiple stages to the conversation, each of which may have different rules applied by the OS’s network stack.
