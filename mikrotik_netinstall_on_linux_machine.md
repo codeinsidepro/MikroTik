@@ -48,7 +48,7 @@ The first two required ports aren’t much of a surprise given the mention of �
 **Step 4:**
 
 Check Linux machine/Netinstall server interface.
-```
+```shell
 ip a | grep enp
 ```
 Output:
@@ -58,7 +58,7 @@ Output:
 ```
 
 Or, Check Linux machine/Netinstall server interface.
-```
+```shell
 ifconfig | grep enp
 ```
 Output:
@@ -73,7 +73,7 @@ The `enp4s0` value will vary by OS and virtual hardware configuration. On mode
 You can follow below syntax to run command.
 
 Help: `netinstall-cli` command syntax
-```
+```syntax
 Version: 7.13.1(2024-01-05 14:35:24)
 Usage: ./netinstall-cli [-r] [-e] [-b] [-k <keyfile>] [-s <userscript>] {-i <interface> | -a <client-ip>} [PACKAGE]+
 	-r  apply default configuration
@@ -87,13 +87,13 @@ Usage: ./netinstall-cli [-r] [-e] [-b] [-k <keyfile>] [-s <userscript>] {-i <int
 
 Now you can start the `netinstall-cli`server:
 Open the directory where you saved `netinstall-cli`> Click right button> `Open in Terminal`> Now run below command.
-```
+```bash
 sudo chmod +x ./netinstall-cli
 ```
 
 
 Run below command.
-```
+```bash
 sudo ./netinstall-cli -r -i enp4s0 -a 192.168.88.2 routeros-7.13.1-arm.npk
 ```
 Output:
