@@ -48,7 +48,7 @@ For any questions, suggestions, or discussions related to MikroTik training, fee
 
 ### License
 
-This repository is licensed under the [MIT License](link to license file). Feel free to use, modify, and distribute the content as per the terms.
+This repository is licensed under the [MIT License]([link to license file](https://github.com/codeinsidepro/MikroTik/blob/main/LICENSE)). Feel free to use, modify, and distribute the content as per the terms.
 
 We hope this repository serves as a valuable resource in your journey to mastering MikroTik networking devices. Happy learning! 🌐✨
 
