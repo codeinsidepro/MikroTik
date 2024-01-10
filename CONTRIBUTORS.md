@@ -4,7 +4,7 @@ A big thank you to all the contributors who have dedicated their time, knowledge
 
 ### CodeInsidePro Team
 
-- John Doe - [@JohnDoe](link to GitHub profile): Technical lead, overseeing project management and content curation.
+- S M Wahiduzzaman - ([GitHub profile](https://github.com/wahidwahid)): Technical lead, overseeing project management and content curation.
 - Jane Smith - [@JaneSmith](link to GitHub profile): Content creator, responsible for tutorials, documentation, and video content production.
 - Alex Johnson - [@AlexJohnson](link to GitHub profile): Networking specialist, contributing configuration examples and troubleshooting guides.
 
