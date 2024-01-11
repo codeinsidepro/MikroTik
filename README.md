@@ -43,7 +43,7 @@ Ready to start your MikroTik journey? Here are some recommended steps:
 
 ### Support and Community
 
-For any questions, suggestions, or discussions related to MikroTik training, feel free to [open an issue](link to issue page) or join our community forum [here](link to forum). Your feedback is valuable!
+For any questions, suggestions, or discussions related to MikroTik training, feel free to [open an issue]([link to issue page](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) or join our community forum [here](link to forum). Your feedback is valuable!
 
 
 ### License
