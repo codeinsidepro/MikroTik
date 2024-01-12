@@ -144,3 +144,5 @@ For routers with wired interfaces only, the base `routeros-*.npk` package is a
 
 If you get the `Key was rejected` message, hit Ctrl-C to break out of `netinstall-cli`, then Up-Arrow and Enter to quickly restart it. I’ve seen this bypass the symptom when using a CentOS 8 Stream VM as the server.
 
+> Note:
+I highly recommend running a packet sniffer like Wireshark or tcpdump when you’re doing this, to identify any configuration errors.
