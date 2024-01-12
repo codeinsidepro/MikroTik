@@ -48,7 +48,7 @@ Alternatively you can stop Firewall during installation.
 ---
 
 **Step 1:**
-Download and save MikroTik ROS package `*.npk` and `netinstall-cli` in same directory in your Linux machine, Make sure both `*.npk` and `netinstall-cli`  files are same version.
+[Download](https://mikrotik.com/download) and save MikroTik ROS package `*.npk` and `netinstall-cli` in same directory in your Linux machine, Make sure both `*.npk` and `netinstall-cli`  files are same version.
 
 I don’t know how critical it is to use the matching version of `netinstall-cli` when changing RouterOS versions, but while you’re downloading fresh `*.npk` , you might as well update `netinstall-cli` version as well.
 
