@@ -1,4 +1,6 @@
+
 ## MikroTik Netinstall on Linux.
+
 
 
 |   |   |
@@ -13,9 +15,6 @@
 |   |   |
 
 
-
-
-
 I’m writing this because [the MikroTik official docs](https://help.mikrotik.com/docs/display/ROS/Netinstall) are thin on details for this use case.
 
 `NetInstall` needs to force I/O through a single network path under all conditions in order to do what it does. This might seem like an easy thing to accomplish, but then realize that `NetInstall` operates at a very low level, and there are multiple stages to the conversation, each of which may have different rules applied by the OS’s network stack.
@@ -25,6 +24,7 @@ This recommendation holds even for those running Linux natively on the host syst
 The only key configuration choice is _bridging_ the virtual network adapter to the one-and-only host-side Ethernet adapter that `netinstall-cli` will communicate over. Success lies in avoiding cleverness like NAT, “shared” networking, automatic switching between Ethernet and WiFi, etc.
 
 Here is the documents what worked for me with Fedora Linux 39.
+
 
 ### Firewall
 ---
@@ -42,6 +42,7 @@ sudo firewall-cmd --add-port 5000/udp
 Other Linuxes use other firewall systems. Some still use raw `iptables` or `nft` commands, `ufw` is popular on Ubuntu, etc.
 
 Alternatively you can stop Firewall during installation.
+
 
 ### Netinstall Server Configuration
 ---
