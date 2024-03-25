@@ -1,3 +1,13 @@
+|                         |                                                             |
+| ----------------------- | ----------------------------------------------------------- |
+| **Author:**             | SM Wahiduzzaman                                             |
+| **Mobile:**             | +8801823 555 556                                            |
+| **Skype:**              | live:.cid.8b4a930feae477f8                                  |
+| **Telegram:**           | https://t.me/codeinsidepro                                  |
+| **E-Mail:**             | [codeinside.pro@gmail.com](mailto:codeinside.pro@gmail.com) |
+|  |                                                           |
+
+
 ## MikroTik Training Repository
 
 Welcome to the MikroTik Training Repository! 🚀 This repository aims to provide comprehensive resources and training materials for learning MikroTik networking devices, helping individuals dive into the world of networking, configuration, and optimization using MikroTik routers and equipment.
